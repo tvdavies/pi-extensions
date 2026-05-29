@@ -5,7 +5,7 @@ Personal extensions for [Pi](https://github.com/earendil-works/pi-coding-agent),
 ## Extensions
 
 - `anthropic-claude-code.ts` — registers an Anthropic provider using local Claude Code OAuth credentials.
-- `goal.ts` — adds `/goal` plus goal continuation tools for long-running objectives.
+- `goal.ts` — adds `/goal`, durable `/plan`, and continuation tools for long-running objectives.
 - `scheduler.ts` — adds `/schedule` plus tools for delayed prompts.
 - `send-user-message.ts` — adds a lightweight progress-note tool.
 - `subagent/` — adds the `subagent` delegation tool.
